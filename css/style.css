@@ -2,6 +2,17 @@ html{
 height: 100%;
 }
 
+@font-face {
+  font-family: "IRANSans";
+  src: url("/fonts/IRANSans.ttf");
+  /*src:*/
+          /*url("css/fonts/Harabara.woff") format("woff"),*/
+          /*url("css/fonts/Harabara.otf") format("opentype"),*/
+          /*url("css/fonts/Harabara.svg#filename") format("svg");*/
+}
+
+
+
 body, input{
   font-family: "IRANSans", IRANSans;
   font-weight: 100;
